@@ -11,6 +11,11 @@
 ### Vision Statement
 > "Making every learner a responsible driver through immersive, consequence-based learning"
 
+### Core Philosophy
+> **From "Fear of Fines" to "Pride in Skill and Harmony"**
+> 
+> DriveWise distinguishes between **Rules** (Legal compliance) and **Ethics** (The Social Contract/Empathy). We don't just teach how to avoid tickets—we cultivate drivers who make their communities proud to share the roads with them.
+
 ### Key Differentiators
 | Traditional Learning | DriveWise |
 |---------------------|-----------|
@@ -320,6 +325,291 @@ A browser-accessible, gamified driving simulation that covers **every major traf
 
 ---
 
+### Module 10: The Social Contract - Driving Ethics
+
+> [!NOTE]
+> **The Ethics Engine Philosophy**
+> 
+> While laws define the **minimum** acceptable behavior, **ethics defines excellence**. This module implements a parallel "Karma System" that tracks the invisible social contract between road users—the empathy, consideration, and harmony that transform chaotic streets into shared spaces.
+
+#### 10.1 Rules vs Ethics: The Dual Reality
+
+| Scenario | Legal Status | Ethical Status |
+|----------|-------------|----------------|
+| Splashing pedestrian with puddle | ✅ Legal | ❌ Ethical Failure (-100 Karma) |
+| Not dipping high beams | ✅ Legal in most cases | ❌ Causes distress (-30 Karma) |
+| Refusing to zipper merge | ✅ Legal | ❌ Creates traffic chaos (-40 Karma) |
+| Honking at slow e-rickshaw | ✅ Legal | ❌ Stresses vulnerable users (-15 Karma) |
+| Using car to shield crossing pedestrian | ➖ Neutral | ✅ Heroic act (+75 Karma) |
+
+**Key Insight**: You can score 100% on traffic rules and still be a *Toxic Driver* in terms of social impact.
+
+---
+
+#### 10.2 The Karma System
+
+**Two Parallel Scores**:
+1. **Rule Points** (0-1000): Traditional traffic compliance
+2. **Karma Level** (0-1000): Social friction and empathy
+
+**Karma States & Environmental Response**:
+
+| Karma Range | State | Visual | Audio | NPC Behavior |
+|-------------|-------|--------|-------|--------------|
+| **750-1000** | 🌟 Zen Mode | Golden lighting, vibrant colors | Lo-fi music, bird sounds | Smiles, waves, grateful gestures |
+| **400-749** | 😐 Neutral | Normal colors | Standard traffic hum | Normal interactions |
+| **150-399** | 😰 Stressed | Desaturated, harsh reds | Aggressive horns, tense music | Anxious, hurried movements |
+| **0-149** | 💀 Toxic | Gray, gloomy tones | Shouting, anger, chaos | Angry gestures, road rage |
+
+**The World Judges You**: Your Karma level literally changes how the game looks, sounds, and responds to you.
+
+---
+
+#### 10.3 Indian Road Context: The Shared Ecosystem
+
+DriveWise is set in **Urban/Semi-Urban India**, where "road users" include far more than just cars:
+
+##### Vulnerable Road Users
+- **E-rickshaws**: Slow, unstable, often driven by elderly
+- **Street Vendors**: Pushcarts on roadside, sudden stops
+- **Two-wheelers in Rain**: Especially vulnerable to puddle splashes
+- **Handcart Pullers**: Human-powered vehicles
+- **School Children**: Often crossing without signals
+
+##### Non-Vehicle Entities
+- **Cattle**: Free-roaming cows, buffaloes
+- **Stray Animals**: Dogs sleeping on roads, crossing unpredictably
+- **Processions**: Weddings (baraats), funerals, religious events
+- **Temporary Obstacles**: Vendor stalls, parked trucks unloading
+
+##### Infrastructure Challenges
+- **Potholes**: Sudden hazards, especially dangerous for two-wheelers
+- **Unlit Roads**: Many areas lack streetlights
+- **Mixed Traffic**: Cars, bikes, cycles, animals sharing space
+- **Unmarked Crossings**: Pedestrians cross anywhere
+
+**Ethics Challenge**: Can you navigate this *organized chaos* with **harmony** rather than **aggression**?
+
+---
+
+#### 10.4 The "Ethics 25" - Empathy Scenarios
+
+Each scenario uses **Empathy Trigger Zones**—invisible zones around NPCs that calculate Karma based on your speed, proximity, and context.
+
+##### 🌊 Tier 1: Essential Empathy (Must-Have Scenarios)
+
+**1. The Splash Zone**
+- **Situation**: Puddle ahead, pedestrian/vendor within 3-5m lateral distance
+- **Ethical Choice**: Slow to <10 km/h or risk splashing
+- **Karma**: -100 if splash | +20 if careful
+- **Impact**: "1 Life Negatively Impacted" (soaked clothes, ruined goods)
+
+**2. The High-Beam Dip**
+- **Situation**: Oncoming traffic detected at night
+- **Ethical Choice**: Dip headlights within 2 seconds
+- **Karma**: -30 if delayed/ignored | +15 if proactive
+- **Impact**: "Prevented driver blinding"
+
+**3. The Zipper Merge**
+- **Situation**: Lane reduction, bottleneck ahead
+- **Ethical Choice**: Let 1 car merge, then go (1-for-1 pattern)
+- **Karma**: -40 for aggressive insertion | +25 for zipper
+- **Impact**: "Improved traffic flow for 12 vehicles"
+
+**4. The Human Shield**
+- **Situation**: Pedestrian crossing lane 1 of 3-lane road, you're in lane 2
+- **Ethical Choice**: Stop to block lane 2, protecting them from lane 3
+- **Karma**: +75 ("Hero Move")
+- **Impact**: "1 Life Actively Protected"
+
+**5. The Pothole Guardian**
+- **Situation**: Large pothole ahead, two-wheelers behind you (within 50m)
+- **Ethical Choice**: Activate hazard lights to warn them
+- **Karma**: +30 if warned | -20 if missed opportunity
+- **Impact**: "Prevented potential accident"
+
+##### 🛣️ Tier 2: Daily Courtesy (Common Situations)
+
+**6. The Silent Pass**
+- Navigate congested areas without using horn
+- **Karma**: +10 | **Impact**: "Reduced noise pollution"
+
+**7. The Ambulance Assist**
+- Coordinate with other vehicles to create corridor
+- **Karma**: +50 | **Impact**: "Emergency response time reduced"
+
+**8. The School Zone Angel**
+- Ultra-cautious during school hours (even more than legal requirement)
+- **Karma**: +20 | **Impact**: "12 children safe crossings"
+
+**9. The Cyclist Buffer**
+- Maintain 1.5m passing distance from cyclists
+- **Karma**: +15 | **Impact**: "Cyclist felt safe"
+
+**10. The Vendor Respect**
+- No honking at street vendors temporarily blocking road
+- **Karma**: +10 | **Impact**: "Respected livelihood"
+
+##### 🐄 Tier 3: Indian Road Specials
+
+**11. The Animal Guardian**
+- Patient stopping for cattle/stray dogs
+- **Karma**: +25 | **Impact**: "Animal welfare maintained"
+
+**12. The Wedding Procession Wait**
+- No aggression during baraat (wedding procession)
+- **Karma**: +30 | **Impact**: "Cultural respect shown"
+
+**13. The Rickshaw Courtesy**
+- Not tailgating slow e-rickshaws carrying elderly driver
+- **Karma**: +15 | **Impact**: "Vulnerable driver unstressed"
+
+**14. The Monsoon Mercy**
+- Extra speed reduction in heavy rain for everyone's safety
+- **Karma**: +20 | **Impact**: "Community safety prioritized"
+
+**15. The Night Quiet**
+- No honking in residential areas late evening/night
+- **Karma**: +15 | **Impact**: "12 households undisturbed sleep"
+
+##### 🎯 Tier 4: Advanced Ethics (Skill Demonstration)
+
+**16. The Blind Spot Check**
+- Manual shoulder check before lane change (not just mirrors)
+- **Karma**: +5 | **Impact**: "Two-wheeler in blind spot protected"
+
+**17. The Apology Flash**
+- Using hazard lights briefly to apologize for mistakes
+- **Karma**: +10 | **Impact**: "De-escalated potential road rage"
+
+**18. The Elderly Patience**
+- Extra time for slow-crossing elderly pedestrians
+- **Karma**: +20 | **Impact**: "Dignity maintained"
+
+**19. The Construction Acknowledgement**
+- Wave/acknowledge road workers/traffic police
+- **Karma**: +5 | **Impact**: "Worker morale boosted"
+
+**20. The Parking Karma**
+- Not blocking narrow streets, driveways, or fire lanes
+- **Karma**: +15 | **Impact**: "8 vehicles unobstructed"
+
+##### 🏆 Tier 5: Ultimate Empathy (Game-Changing)
+
+**21. The Breakdown Helper**
+- Stopping to assist stranded drivers (in-game event)
+- **Karma**: +100 ("Ultimate Good") | **Impact**: "Life directly helped"
+
+**22. The Shared Auto Respect**
+- Yielding to shared autos at designated stops
+- **Karma**: +10 | **Impact**: "10 passengers' commute eased"
+
+**23. The Learner's Patience**
+- No honking/aggression toward L-plate (learner) drivers
+- **Karma**: +10 | **Impact**: "New driver confidence maintained"
+
+**24. The Eco-Choice**
+- Choosing fuel-efficient speeds (50-60 km/h on highway)
+- **Karma**: +5 | **Impact**: "Carbon footprint reduced"
+
+**25. The Empathy Map**
+- Unlocked special HUD: see other drivers' "stress levels" (visual indicators)
+- **Karma**: Awareness bonus (helps player choose empathetic actions)
+
+---
+
+#### 10.5 Empathy Trigger Zones: The Technical Magic
+
+**How It Works**:
+Every pedestrian, cyclist, animal, and vulnerable user has an **invisible detection zone**:
+
+| Zone Level | Radius | Safe Speed | Detection |
+|------------|--------|------------|-----------|
+| **Critical** | 2-5m | 5-10 km/h | Immediate danger zone |
+| **Caution** | 5-15m | 15-25 km/h | Early warning |
+| **Awareness** | 15-30m | 30-40 km/h | Proactive empathy |
+
+**Calculation Formula**:
+```
+Karma Impact = (Player Speed - Safe Speed) × Vulnerability Multiplier × Context Factor
+
+Vulnerability Multipliers:
+- Children: 2.0x
+- Elderly: 1.8x
+- Animals: 1.5x
+- Two-wheelers in rain: 1.7x
+- E-rickshaws: 1.6x
+
+Context Factors:
+- Rain: 1.5x (puddle risk)
+- Night: 1.2x (visibility)
+- School hours: 2.0x
+- Near pothole: 1.4x
+```
+
+**Example**:
+- **Scenario**: Child crossing, you're 4m away at 40 km/h
+- **Safe Speed**: 10 km/h (Critical Zone)
+- **Calculation**: (40 - 10) × 2.0 (child) × 1.0 = **-60 Karma**
+- **Feedback**: Red alert, "DANGER! Child ahead!" + visual slowdown reminder
+
+---
+
+#### 10.6 Sensory Feedback Loop
+
+The game doesn't just *tell* you about ethics—it *shows* you through the world's reaction:
+
+**Zen Mode Visual/Audio**:
+- 🎨 Warm golden lighting, vibrant greens
+- 🎵 Lo-fi chill beats, light traffic ambience
+- 😊 NPCs wave, smile, grateful gestures
+- 🌟 Soft glow effect around player vehicle
+
+**Stress Mode Visual/Audio**:
+- 🎨 Desaturated colors, harsh reds, gloomy tones
+- 🎵 Aggressive honking, shouting (muffled), tense music
+- 😡 NPCs show angry gestures, middle fingers, horn blasts
+- ⚡ Jittery screen effect, visual stress indicators
+
+**The World is a Mirror**: Your ethics literally shape the reality around you.
+
+---
+
+#### 10.7 Post-Trip Impact Report
+
+After each session, instead of just a "high score," you see:
+
+**Traditional Metrics**:
+- ✅ Rule Points: 820/1000
+- ⏱️ Time Taken: 8:45
+- 🚦 Violations: 2 (yellow light, speed)
+
+**Ethics Metrics** (The Real Story):
+- 💚 Karma Level: 680/1000 (Neutral → Zen progression)
+- 👥 Lives Positively Impacted: 18
+  - 8 pedestrians safely yielded to
+  - 4 cyclists given safe buffer
+  - 3 two-wheelers warned of pothole
+  - 2 vendors respected (no horn)
+  - 1 elderly pedestrian given extra time
+- 😔 Lives Negatively Impacted: 3
+  - 1 pedestrian splashed (puddle)
+  - 2 drivers temporarily blinded (high beams)
+
+**Top Ethical Moments** (Timeline):
+- 03:22 - 🏆 Human Shield activated (+75 Karma)
+- 05:18 - 🌊 Careful puddle navigation (+20 Karma)
+- 07:01 - 🚴 Perfect cyclist buffer (+15 Karma)
+
+**Growth Areas**:
+- ⚠️ High-beam dipping needs improvement
+- 💡 Consider using hazard lights for potholes
+
+**Final Message**:
+> "You didn't just drive—you made 18 people's days a little bit better. That's the DriveWise way."
+
+---
+
 ## 5. Game Features & Mechanics
 
 ### 5.1 Core Gameplay Loop
@@ -376,7 +666,14 @@ A browser-accessible, gamified driving simulation that covers **every major traf
 
 ### 5.3 Scoring & Progression System
 
-#### Points System
+> [!IMPORTANT]
+> **Dual-Track Scoring: Rules + Karma**
+> 
+> DriveWise tracks TWO independent scores that together define your driving excellence:
+> - **Rule Points** (Legal Compliance): Traditional traffic rule adherence
+> - **Karma Level** (Social Ethics): Empathy, consideration, and harmony
+
+#### Rule Points System (Traditional Compliance)
 | Action | Points | Category |
 |--------|--------|----------|
 | Perfect stop at signal | +15 | Signal Compliance |
@@ -388,9 +685,25 @@ A browser-accessible, gamified driving simulation that covers **every major traf
 | Correct mirror check | +5 | Defensive Driving |
 | Emergency brake (correct) | +25 | Hazard Response |
 
-#### Violation Penalties
-| Violation | Penalty | Consequence |
-|-----------|---------|-------------|
+#### Karma Points System (Ethical Actions)
+| Action | Karma | Impact Category |
+|--------|-------|------------------|
+| Splash Zone (careful) | +20 | Pedestrian Care |
+| High-Beam Dip | +15 | Driver Courtesy |
+| Zipper Merge | +25 | Traffic Harmony |
+| Human Shield | +75 | Hero Move |
+| Pothole Guardian | +30 | Community Warning |
+| Silent Pass (no horn) | +10 | Noise Ethics |
+| Ambulance Assist | +50 | Emergency Support |
+| Cyclist Buffer (1.5m) | +15 | Vulnerable User Care |
+| Vendor Respect | +10 | Livelihood Respect |
+| Animal Guardian | +25 | Animal Welfare |
+| Wedding Procession Wait | +30 | Cultural Respect |
+| Breakdown Helper | +100 | Ultimate Good |
+
+#### Rule Violation Penalties
+| Violation | Rule Points | Consequence |
+|-----------|-------------|-------------|
 | Red light running | -100 | Strike 1 |
 | Hitting pedestrian | -500 | Mission Fail |
 | Excessive speeding (>20 over) | -50 | Warning |
@@ -399,18 +712,40 @@ A browser-accessible, gamified driving simulation that covers **every major traf
 | Distracted driving | -30 | Warning |
 | Hit and run | -1000 | Game Over |
 
-#### Rank Progression
+#### Karma Penalties (Ethical Failures)
+| Action | Karma | Impact |
+|--------|-------|--------|
+| Splashing pedestrian | -100 | 1 Life Negatively Impacted |
+| High-beam blinding | -30 | Driver Distress |
+| Aggressive merge | -40 | Traffic Chaos |
+| Horn at vendor | -15 | Livelihood Stress |
+| Tailgating rickshaw | -20 | Vulnerable User Fear |
+| Ignoring pothole warning | -20 | Missed Opportunity |
+| Night honking (residential) | -25 | Noise Pollution |
+| Blocking driveway | -30 | Community Inconvenience |
+
+#### Rank Progression (Combined Rule + Karma)
 ```
-🥉 Learner (0-1000 pts)
-🥈 Novice Driver (1001-5000 pts)  
-🥇 Competent Driver (5001-15000 pts)
-⭐ Skilled Driver (15001-30000 pts)
-🌟 Expert Driver (30001-50000 pts)
-👑 Master Driver (50001+ pts)
-🏆 Traffic Ethics Champion (Perfect completion)
+🥉 Learner (0-1000 combined)
+🥈 Novice Driver (1001-5000 combined)  
+🥇 Competent Driver (5001-15000 combined)
+⭐ Skilled Driver (15001-30000 combined)
+🌟 Expert Driver (30001-50000 combined)
+👑 Master Driver (50001+ combined)
+🏆 Traffic Ethics Champion (Perfect Rule + Zen Karma)
 ```
 
+#### Karma-Specific Ranks
+| Karma Level | Title | World State |
+|-------------|-------|-------------|
+| 750-1000 | 🌟 Zen Driver | Golden world, lo-fi music |
+| 400-749 | 😐 Balanced Driver | Neutral state |
+| 150-399 | 😰 Stressed Driver | Gray visuals, tense audio |
+| 0-149 | 💀 Toxic Driver | Anger, chaos, hostility |
+
 #### Achievement Badges
+
+##### Rule-Based Achievements
 - 🎯 **Perfect Student**: Complete all tutorials
 - 🚦 **Signal Master**: 100 perfect signal stops
 - 🦶 **Pedestrian Guardian**: 50 pedestrian yields
@@ -420,6 +755,19 @@ A browser-accessible, gamified driving simulation that covers **every major traf
 - 📜 **Rule Keeper**: 1000 consecutive rule-following seconds
 - 🎓 **Certified**: Pass mock license test
 
+##### Ethics-Based Achievements (The Karma Collection)
+- 🌟 **Zen Master**: Maintain Zen Karma for 30 minutes
+- 💚 **Good Samaritan**: 10 breakdown assists
+- 🌊 **Splash Savior**: 100 careful puddle navigations
+- 💡 **Pothole Guardian**: Warn 50 riders with hazards
+- 🚴 **Cyclist's Best Friend**: 200 safe cyclist passes
+- 🐄 **Animal Protector**: 50 patient animal stops
+- 🤫 **The Silent One**: Complete 10 trips without horn
+- 🎉 **Cultural Ambassador**: 25 patient procession waits
+- 👨‍👧 **Human Shield**: 10 successful protective stops
+- 🌍 **Harmony Champion**: 500 positive life impacts
+- 🏆 **Empathy Legend**: All 25 Ethics scenarios mastered
+
 ---
 
 ### 5.4 Real-Time Feedback System
@@ -428,14 +776,19 @@ A browser-accessible, gamified driving simulation that covers **every major traf
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  ┌─────────────┐                    [RULES STATUS] ✓✓✓✗     │
-│  │   MINI-MAP  │                                              │
-│  │   🚗        │     Safe Distance: ████████░░ OK           │
-│  │             │     Speed Limit: 50 km/h | Current: 48      │
-│  └─────────────┘     Signals: ⬅ OFF | ➡ ON                  │
-│                                                               │
-│  Score: 2,450        [FEEDBACK ZONE]                         │
-│  Streak: 45s         ✓ Good lane positioning!                │
-│  Rank: ⭐             ⚠ Remember to check mirrors            │
+│  │   MINI-MAP  │                [KARMA METER] 💚💚💚💚🤍      │
+│  │   🚗        │                State: 🌟 Zen Mode           │
+│  │             │                                              │
+│  └─────────────┘     Safe Distance: ████████░░ OK           │
+│                      Speed Limit: 50 km/h | Current: 48      │
+│  Score: 2,450        Signals: ⬅ OFF | ➡ ON                  │
+│  Karma: 780/1000                                             │
+│  Streak: 45s         [FEEDBACK ZONE]                         │
+│  Rank: ⭐            ✓ Good lane positioning!                │
+│                      💚 +15 Cyclist buffer maintained         │
+│  Lives Impacted:     ⚠ Remember to check mirrors            │
+│  Positive: 12                                                │
+│  Negative: 1                                                 │
 │                                                               │
 │  ┌────────────────────────────────────────────────────────┐  │
 │  │ 🔴 SPEEDOMETER: 48 km/h    LIMIT: 50 km/h ✓           │  │
@@ -471,6 +824,198 @@ A browser-accessible, gamified driving simulation that covers **every major traf
 - Traffic density variation (morning rush, evening rush, off-peak)
 - Random events (emergency vehicles, accidents, construction)
 - Seasonal variations (leaves, snow, ice)
+
+---
+
+### 5.6 Ethics Engine Architecture
+
+> [!NOTE]
+> **Technical Implementation of the Social Contract**
+> 
+> The Ethics Engine is the game's "moral consciousness"—a parallel processing system that evaluates not just *what* you did (rules) but *how* and *why* you did it (ethics).
+
+#### Core Systems
+
+```mermaid
+graph TD
+    A[Player Action] --> B[EthicsManager]
+    B --> C[Rule Points Engine]
+    B --> D[Karma Calculator]
+    D --> E[Empathy Trigger Zones]
+    E --> F[Context Analyzer]
+    F --> G[Karma Impact Calculation]
+    G --> D
+    D --> H[Karma State Machine]
+    H --> I[Environment Vibe Controller]
+    I --> J[Visual Transformation]
+    I --> K[Audio Transformation]
+    I --> L[NPC Empathy AI]
+    B --> M[Impact Tracker]
+    M --> N[Post-Trip Report]
+```
+
+#### 1. EthicsManager.cs - Central Controller
+
+**Responsibilities**:
+- Maintain dual scoring (Rule Points + Karma Level)
+- Track current Karma state (Zen/Neutral/Stressed/Toxic)
+- Record ethics timeline for post-trip analysis
+- Calculate "Lives Impacted" metrics
+
+**Data Structures**:
+```javascript
+{
+  rulePoints: 850,          // 0-1000
+  karmaLevel: 680,          // 0-1000
+  karmaState: "Neutral",    // Zen/Neutral/Stressed/Toxic
+  livesPositivelyImpacted: 12,
+  livesNegativelyImpacted: 3,
+  ethicsTimeline: [
+    { timestamp: "03:22", event: "Human Shield", karma: +75 },
+    { timestamp: "05:18", event: "Splash Zone (careful)", karma: +20 },
+    // ...
+  ]
+}
+```
+
+#### 2. Empathy Trigger Zones - The Detection System
+
+**How They Work**:
+
+Every NPC (pedestrian, cyclist, vendor, animal) has **3 concentric detection zones**:
+
+| Zone | Radius | Function | Karma Calculation |
+|------|--------|----------|-------------------|
+| **Awareness** | 15-30m | Early detection | Rewards proactive slowing (+3 to +10) |
+| **Caution** | 5-15m | Speed assessment | Penalties for unsafe speed (-5 to -30) |
+| **Critical** | 2-5m | Immediate danger | High stakes (-60 to +20) |
+
+**Calculation Formula**:
+```
+Karma Impact = BASE_KARMA × Vulnerability_Multiplier × Context_Factor
+
+Where:
+BASE_KARMA = (Player_Speed - Safe_Speed_For_Zone) × -10
+
+Vulnerability Multipliers:
+- Children: 2.0x
+- Elderly: 1.8x
+- Two-wheelers in rain: 1.7x
+- E-rickshaws: 1.6x
+- Animals: 1.5x
+- Vendors with cart: 1.4x
+
+Context Factors:
+- Rain/Puddle nearby: 1.5x
+- Night/Poor visibility: 1.2x
+- School hours (7-9am, 2-4pm): 2.0x
+- Near pothole: 1.4x
+- Residential area at night: 1.3x
+```
+
+**Example Scenarios**:
+
+*Scenario 1: Child Crossing (Critical Zone)*
+- Distance: 4m
+- Player Speed: 40 km/h
+- Safe Speed: 10 km/h
+- Calculation: (40-10) × -10 × 2.0 (child) × 1.0 = **-600 Karma**
+- Feedback: 🚨 **RED ALERT**: "DANGER! Child ahead!"
+
+*Scenario 2: Cyclist Pass (Caution Zone)*
+- Distance: 8m (lateral)
+- Player Speed: 45 km/h
+- Cyclist Buffer: 1.5m maintained
+- Calculation: +15 Karma
+- Feedback: 💚 **GREEN GLOW**: "Safe cyclist buffer! +15"
+
+#### 3. Environment Vibe Controller - The World Reacts
+
+**State Transitions**:
+
+| From State → To State | Trigger | Transition Effect |
+|----------------------|---------|-------------------|
+| Neutral → Zen | Karma reaches 750 | 2-second golden fade-in, music crossfade |
+| Zen → Neutral | Karma drops below 700 | Gradual color desaturation (5 seconds) |
+| Neutral → Stressed | Karma drops below 400 | Color shift to grays, audio tension increase |
+| Stressed → Toxic | Karma drops below 150 | Immediate harsh reds, shouting audio layer |
+
+**Visual Parameters by State**:
+
+**Zen Mode**:
+```javascript
+{
+  colorTemperature: +15,      // Warm golden
+  saturation: +10,            // Vibrant colors
+  lightIntensity: 1.2,        // Bright
+  lightColor: #FFF2CC,        // Golden hour
+  particleEffects: "floating_sparkles",
+  vehicleGlow: "soft_gold"
+}
+```
+
+**Stress Mode**:
+```javascript
+{
+  colorTemperature: -10,      // Cold blue-gray
+  saturation: -20,            // Desaturated
+  lightIntensity: 0.8,        // Dim
+  lightColor: #999999,        // Gray
+  particleEffects: "dust_smoke",
+  screenShake: "subtle_jitter"
+}
+```
+
+**Audio Parameters by State**:
+
+**Zen**: Lo-fi beats (60-80 BPM), bird chirps, light traffic hum (30% volume)
+**Stressed**: Tense electronic (100-120 BPM), aggressive honking (70% volume), muffled shouting
+
+#### 4. NPC Empathy AI - Living Reactions
+
+NPCs adjust behavior based on player's Karma state:
+
+| Player Karma | Pedestrian Behavior | Driver Behavior | Timeline |
+|--------------|---------------------|-----------------|----------|
+| **Zen** | Smile, wave, relaxed crossing | Yield easily, patient | NPCs "feel safe" around you |
+| **Neutral** | Normal walking pace | Normal driving | Standard interactions |
+| **Stressed** | Hurried, cautious, check both ways | Aggressive, honking | NPCs "sense tension" |
+| **Toxic** | Running, fear gestures | Road rage, blocking | NPCs "avoid you" actively |
+
+**Implementation Example**:
+```javascript
+// Pedestrian sees player approaching
+if (playerKarmaState === "Zen") {
+  pedestrian.playAnimation("wave");
+  pedestrian.walkSpeed = 1.0;  // Normal, relaxed
+} else if (playerKarmaState === "Toxic") {
+  pedestrian.playAnimation("run");
+  pedestrian.walkSpeed = 2.5;  // Panicked running
+  pedestrian.lookAtPlayer(anxious: true);
+}
+```
+
+#### 5. Impact Tracking System
+
+**"Lives Impacted" Calculation**:
+
+Each ethical action/violation affects the counter:
+
+**Positive Impacts**:
+- Pedestrian safely yielded to: +1
+- Cyclist given safe buffer: +1
+- Two-wheeler warned of pothole: +1
+- Vendor respected (no horn): +1
+- Animal safely navigated: +1
+- Breakdown assist: +5 (major help)
+
+**Negative Impacts**:
+- Pedestrian splashed: +1 negative
+- Driver blinded by high beams: +1 negative
+- Cyclist endangered (close pass): +1 negative
+- Vendor stressed by honking: +0.5 negative
+
+**The Magic Number**: Game aims for player to end session with **15+ positive impacts** and **<3 negative impacts**
 
 ---
 
